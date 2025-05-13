@@ -1,0 +1,53 @@
+.header {
+  margin-bottom: 18px;
+  font-size: 20px;
+  font-weight: 900;
+  color: hsl(218, 44%, 22%);
+
+  text-align: center;
+
+}
+
+.paragraph {
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 15px;
+  color: #68778d;
+  text-align: center;
+
+
+  width: 250px;
+  word-wrap: break-word;
+
+}
+
+.card {
+
+  width: 300px;
+
+  margin-top: 160px;
+  padding: 16px 16px 30px 16px;
+  background-color: #fff;
+
+  border: 0.5px solid #fff;
+  border-radius: 16px;
+  box-shadow: 0px 10px 12px 0PX rgba(0, 0, 0, 0.06);
+  /* background-color: #ffff; */
+
+
+
+}
+
+
+.image {
+  display: inline-block;
+  margin-bottom: 18px;
+  width: 100%;
+
+  /* max-width: 400px; */
+
+  border-radius: 10px;
+  /* display: inline-block; */
+  /* width: 10;
+  height: 20; */
+}

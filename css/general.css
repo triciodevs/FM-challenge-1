@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'outfit';
+}
+
+
+body {
+  line-height: 1.4;
+  background-color: #d6e2f0;
+}
+
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+
+
+
+
+/* for laptops */
+
+ 
+@media (max-width: 1313px) {
+
+  .container {
+    width: 100px;
+    padding: 10px;
+  }
+}
+
+/* for huge tablets */
+
+
+@media (max-width: 1167px) {
+  .container {
+    width: 120px;
+    padding: 5px;
+  }
+}
+
+
+/* for tablets */
+
+
+@media (max-width: 768px) {
+
+  .container {
+    width: 100px;
+    padding: 10px;
+    flex-direction: column;
+  }
+}
+
+
+/* for phones */
+
+@media (max-width: 320px) {
+
+  .container {
+    width: 50px;
+    padding: 20px;
+  }
+}
