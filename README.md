@@ -19,12 +19,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+### Screenshot
+
+![](./screenshot.png)
+
 
 
 ### Links
 
 
-- Live Site URL: [fmfirstproject.netlify.app]( https://triciodevs.github.io/FM-challenge-1/)
+- Live Site URL: [fmfirstproject.netlify.app](fmfirstproject.netlify.app)
 
 ## My process
 
